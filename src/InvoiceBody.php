@@ -2,7 +2,7 @@
 
 namespace Kristianlentino\AutomaticInvoice;
 
-class Invoice
+class InvoiceBody
 {
-	public InvoiceHeader $invoiceHeader;
+
 }

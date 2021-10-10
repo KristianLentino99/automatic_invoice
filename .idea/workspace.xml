@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65b193d1-0d2d-4b52-910f-7b888e72481b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Invoice.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Invoice.php" afterDir="false" />
-    </list>
+    <list default="true" id="65b193d1-0d2d-4b52-910f-7b888e72481b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,11 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633862335307</updated>
       <workItem from="1633862337872" duration="800000" />
-      <workItem from="1633870735274" duration="286000" />
+      <workItem from="1633870735274" duration="2243000" />
     </task>
     <servers />
   </component>
