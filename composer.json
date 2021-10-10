@@ -5,7 +5,10 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Kristianlentino\\AutomaticInvoice\\": "src/"
+            "Kristianlentino\\AutomaticInvoice\\": "src/",
+            "Kristianlentino\\AutomaticInvoice\\interfaces\\": "src/interfaces",
+            "Kristianlentino\\AutomaticInvoice\\header\\": "src/header",
+            "Kristianlentino\\AutomaticInvoice\\enums\\": "src/enums"
         }
     },
     "authors": [
