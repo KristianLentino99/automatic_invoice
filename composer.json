@@ -1,0 +1,18 @@
+{
+    "name": "kristianlentino/automatic_invoice",
+    "description": "a package to generate automatically xml's invoice and send them (for example Aruba o Acube)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kristianlentino\\AutomaticInvoice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kristian Lentino",
+            "email": "kristian.lentino@dieffetech.it"
+        }
+    ],
+    "require": {}
+}
